@@ -5,3 +5,4 @@ markdown:       maruku
 permalink:      pretty
 extensions:     true
 exclude:        ['Rakefile', 'README.markdown', 'TODO.markdown', '_drafts', 'projects']
+theme: jekyll-theme-leap-day
